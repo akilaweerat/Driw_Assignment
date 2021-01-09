@@ -1,0 +1,29 @@
+.Card{
+    width: 25%;
+    height: 25%;
+    margin-top: 3%;
+    margin-left: 14%;
+    border: 1px solid rgb(122, 118, 118);
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.Card img{
+    margin: 18%;
+    width: 60%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.Card button{
+    height: 15%;
+    color: blue;
+    background-color: beige;
+    margin-left: 28%;
+    border-radius: 10%;
+    width: 40%;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: larger;
+    margin-bottom: 5%;
+}

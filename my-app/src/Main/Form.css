@@ -1,0 +1,41 @@
+.CalculateForm {
+    margin: 5%;
+    align-content: center;
+    border: grey solid 1px;
+    margin-left: 35%;
+}
+
+.CalculateForm label{
+    padding: 1%;
+    display: inline-block;
+}
+
+.CalculateForm select {
+        width: 100%;
+        min-width: 15ch;
+        max-width: 30ch;
+        border: 1px solid black;
+        border-radius: 0.25em;
+        padding: 0.25em 0.5em;
+        font-size: 1.25rem;
+        cursor: pointer;
+        line-height: 1.1;
+        background-color: #fff;
+        background-image: linear-gradient(to top,#eac5c5, #e4d9d9 33%);
+}
+
+.CalculateForm input {
+    width: 100%;
+    min-width: 15ch;
+    max-width: 30ch;
+    border: 1px solid black;
+    border-radius: 0.25em;
+    padding: 0.25em 0.5em;
+    font-size: 1.25rem;
+    cursor: pointer;
+    line-height: 1.1;
+}
+
+.InputTotal {
+    margin-bottom: 5%;
+}
