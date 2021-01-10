@@ -24,3 +24,5 @@ Stores information related to Product and Cartons
 ### React Frontend (My-App)
 
 Contains the Web interface written using React
+
+Note  - Database scripts have been included as init.sql
