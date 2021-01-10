@@ -55,7 +55,7 @@ Contains the Web interface written using React
 3. CalculationService
 4. GatewayService
 
-7) sping up the frontend by typing 'npm start' after changing directory into my-app pronject
+7) spin up the frontend by typing 'npm start' after changing directory into my-app project
 
 8) Access the UI by typing localhost:3000
 
