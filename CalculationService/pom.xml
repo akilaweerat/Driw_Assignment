@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sia</groupId>
-	<artifactId>CalculationService</artifactId>
+	<artifactId>calculation-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calculation-service</name>
 	<description>Calculation Service</description>

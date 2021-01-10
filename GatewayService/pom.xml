@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sia</groupId>
-	<artifactId>GatewayService</artifactId>
+	<artifactId>gateway-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gateway-service</name>
 	<description>Gateway Service</description>
