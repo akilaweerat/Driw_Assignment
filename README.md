@@ -29,9 +29,9 @@ Contains the Web interface written using React
 
 #### Pre-requisites
 
-Java 1.8
-Postgres
-npm
+* Java 1.8
+* Postgres
+* npm
 
 1) Clone the repository
 
@@ -42,9 +42,9 @@ npm
 
 4) Currently the postgres credentials are as follows . This is stored and used by ProductService . You can create a postgres user 'product_user' with database 'product_db' and password '1234' or change them to an existing user/db and rebuild ProductService. The database schema scripts are stored as init.sql in the repo
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/product_db
-spring.datasource.username=product_user
-spring.datasource.password=1234
+* spring.datasource.url=jdbc:postgresql://localhost:5432/product_db
+* spring.datasource.username=product_user
+* spring.datasource.password=1234
 
 5) start the microservices by typing `java -jar <artifact.jar>` in the following order
 
